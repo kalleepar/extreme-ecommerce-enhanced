@@ -1,11 +1,9 @@
-# 💬Employee Tracker Deluxe💥
+# Extreme Ecommerce
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This program was developed to organize and plan your vigilante escapades!
-Through the use of the terminal the user is able to view, add, and update
-employee data with ease.
+This program was developed to seed and view data via the Insomnia application.
 
 # Table of Contents 
 * [Installation](##-Installation)
@@ -17,28 +15,29 @@ employee data with ease.
   
 ## Installation
 Nodes:
--mysql,
--inquirer,
--console.table
+* mysql2
+* dotenv
+* sequelize
+* express
 
 ## Usage
-To begin application open the 'index.js' in the terminal and type 'node index.js' to launch the application.
+To begin application seed the approrpiate table with data and launch server by typing 'node server.js' into the terminal.
 
 Video demo:
-https://app.screencastify.com/v3/watch/ChOLD5wHqxb49AjDtVuu
-![Alt text](https://github.com/kalleepar/EmployeeTrackerDeluxe/blob/main/assets/EmployeeTrackerDeluxeDemo.gif)
-![Alt text](https://github.com/kalleepar/EmployeeTrackerDeluxe/blob/main/assets/ETDsample1.jpg)
-![Alt text](https://github.com/kalleepar/EmployeeTrackerDeluxe/blob/main/assets/ETDsample2.jpg)
+* https://app.screencastify.com/v3/watch/yIttLPHs9IHWH0rK6FYt
+* https://app.screencastify.com/v3/watch/7n1dFTSWw2rDTNXFt6G3
+![Alt text](https://github.com/kalleepar/extreme-ecommerce-enhanced/blob/main/samples/eeesample1.jpg)
+![Alt text](https://github.com/kalleepar/extreme-ecommerce-enhanced/blob/main/samples/eeesample2.jpg)
 
 ## License 
 MIT
 
 ## Contributing 
 Kalleepar at:
-https://github.com/kalleepar/EmployeeTrackerDeluxe
+https://github.com/kalleepar/extreme-ecommerce-enhanced
 
 ## Tests
-Run 'node index.js' to test application.
+Run 'node server.js' to test application.
 
 ## Contact Information 
 * GitHub Username: Kalleepar
